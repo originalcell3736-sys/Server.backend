@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic
+torch
+transformers
+openai-whisper
+edge-tts
+opencv-python-headless
+pillow
+duckduckgo-search
+nest_asyncio
+requests
